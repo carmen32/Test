@@ -1,0 +1,9 @@
+{
+  "data": {"url": "https://raw.githubusercontent.com/carmen32/Test/main/Spellman.csv" },
+  "mark": "line",
+  "encoding": {
+    "y": {"field": "value", "type": "quantitative", "axis": {"labelAngle": 0}},
+    "x": {"field": "time", "type": "temporal"},
+    "color" : {"field": "identifier", "type": "nominal"}
+  }
+}
