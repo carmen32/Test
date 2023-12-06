@@ -1,0 +1,8 @@
+{
+  "data": {"url": "https://raw.githubusercontent.com/carmen32/Test/main/expression.csv" },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "gene", "type": "nominal", "axis": {"labelAngle": 0}},
+    "y": {"field": "log2fold", "type": "quantitative"}
+  }
+}
