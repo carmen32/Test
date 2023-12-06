@@ -1,5 +1,4 @@
-identifier,time, value
-time_40,time_50,time_60,time_70,time_80
+identifier, time, value
 YAL001C, t_40, -0.07
 YAL001C, t_50, -0.23
 YAL001C, t_60, -0.1
