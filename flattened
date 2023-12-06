@@ -1,0 +1,12 @@
+identifier,time, value
+time_40,time_50,time_60,time_70,time_80
+YAL001C, t_40, -0.07
+YAL001C, t_50, -0.23
+YAL001C, t_60, -0.1
+YAL001C, t_70, 0.03
+YAL001C, t_80, -0.04
+YAL014C, t_40, 0.215
+YAL014C, t_50, 0.09
+YAL014C, t_60, 0.025000002
+YAL014C, t_70, -0.04
+YAL014C, t_80, -0.04
