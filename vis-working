@@ -5,7 +5,7 @@
   "mark": "line",
   "encoding": {
     "x": {"field": "timepoints", "type": "ordinal"},
-    "y": {"field": "expr_vals", "type": "quantitative"},
+    "y": {"field": "exprvals", "type": "quantitative"},
     "color": {"field": "identifiers", "type": "nominal"}
   }
 }
