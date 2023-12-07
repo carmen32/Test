@@ -1,0 +1,14 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/carmen32/Test/main/no_spaces.csv"
+  },
+  "mark": "rect",
+  "encoding": {
+    "x": {"field": "timepoints", "type": "ordinal"},
+    "y": {"field": "identifiers", "type": "nominal"},
+    "color": {"field": "exprvals", "type": "quantitative"}
+  },
+  "config": {
+    "axis": {"grid": true, "tickBand": "extent"}
+  }
+}
