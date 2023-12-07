@@ -1,0 +1,11 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/carmen32/Test/main/no_spaces.csv"
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "timepoints", "type": "ordinal"},
+    "y": {"field": "expr_vals", "type": "quantitative"},
+    "color": {"field": "identifiers", "type": "nominal"}
+  }
+}
