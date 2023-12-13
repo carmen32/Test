@@ -1,0 +1,14 @@
+{
+  "data": {
+    "url": "https://raw.githubusercontent.com/carmen32/Test/main/no_spaces.json"
+  },
+  "mark": "rect",
+  "encoding": {
+    "x": {"field": "time", "type": "ordinal"},
+    "y": {"field": "identifier", "type": "nominal"},
+    "color": {"field": "value", "type": "quantitative"}
+  },
+  "config": {
+    "axis": {"grid": true, "tickBand": "extent"}
+  }
+}
