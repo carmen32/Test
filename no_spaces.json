@@ -1,0 +1,52 @@
+[
+ {
+   "identifier": "YAL001C",
+   "time": "t_40",
+   "value": 7
+ },
+ {
+   "identifier": "YAL001C",
+   "time": "t_50",
+   "value": 23
+ },
+ {
+   "identifier": "YAL001C",
+   "time": "t_60",
+   "value": 10
+ },
+ {
+   "identifier": "YAL001C",
+   "time": "t_70",
+   "value": -3
+ },
+ {
+   "identifier": "YAL001C",
+   "time": "t_80",
+   "value": 4
+ },
+ {
+   "identifier": "YAL014C",
+   "time": "t_40",
+   "value": 21
+ },
+ {
+   "identifier": "YAL014C",
+   "time": "t_50",
+   "value": 9
+ },
+ {
+   "identifier": "YAL014C",
+   "time": "t_60",
+   "value": -2
+ },
+ {
+   "identifier": "YAL014C",
+   "time": "t_70",
+   "value": -4
+ },
+ {
+   "identifier": "YAL014C",
+   "time": "t_80",
+   "value": 4
+ }
+]
